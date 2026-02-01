@@ -1,8 +1,9 @@
 import React from 'react'
+import Box from './components/Box';
 
 const DynamicRenderingPage = () => {
   return (
-    <div>DynamicRenderingPage</div>
+    <Box>DynamicRenderingPage</Box>
   )
 }
 
