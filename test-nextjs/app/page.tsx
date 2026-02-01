@@ -1,7 +1,11 @@
 import React from 'react'
 
-export const page = () => {
+const DynamicRenderingPage = () => {
   return (
-    <div>page</div>
+    <div>DynamicRenderingPage</div>
   )
 }
+
+export default DynamicRenderingPage;
+
+
